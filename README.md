@@ -40,3 +40,11 @@ sales across different cities.
 - `analysis.py` — Python analysis
 - `ecommerce_sales_dashboard.pbix` — Power BI dashboard
 - `README.md` — project documentation
+
+- ## Key Findings
+
+- Identified revenue performance across different product categories
+- Compared product-level revenue to understand product performance
+- Compared revenue across different cities
+- Analyzed sales trends over time
+- Built an interactive Power BI dashboard to explore the results
